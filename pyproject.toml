@@ -105,7 +105,7 @@ package-mode = false
   before_after = "^1.0.1"
   coverage = "^7.2"
   deptry = "^0.20.0"
-  django-extensions = "^3.1.2"
+  django-extensions = "^4.1"
   django-stubs = { version = "^4.2.7", extras = ["compatible-mypy"] }
   fakeredis = "^2.10"
   freezegun = "^1"
